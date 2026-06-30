@@ -12,3 +12,6 @@ Introductory C++ programming assignments.
 | [Pies](./Pies) | Using structs to manage pie types and arrays of structs |
 | [Point-of-Sale-Terminal](./Point-of-Sale-Terminal) | Point-of-sale cash register software |
 | [Exceptions-Arguments](./Exceptions-Arguments) | Working with exceptions and arguments in C++ |
+| [Strings](./Strings) | Reporting length, character counts, and classifications of a user-supplied string |
+| [Tickets](./Tickets) | Implementing a ticket-for-seat management system |
+| [Votes](./Votes) | Using linked lists to tabulate votes |
